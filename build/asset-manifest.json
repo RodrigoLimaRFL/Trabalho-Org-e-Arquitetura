@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Trabalho-Org-e-Arquitetura/static/css/main.116717ef.css",
+    "main.js": "/Trabalho-Org-e-Arquitetura/static/js/main.39d3f583.js",
+    "static/media/image5.png": "/Trabalho-Org-e-Arquitetura/static/media/image5.256c506a4dd50d9bff7a.png",
+    "static/media/image10.png": "/Trabalho-Org-e-Arquitetura/static/media/image10.80e3e979b30d272325c9.png",
+    "static/media/image9.png": "/Trabalho-Org-e-Arquitetura/static/media/image9.3c4daea81e1440d80e33.png",
+    "static/media/image2.png": "/Trabalho-Org-e-Arquitetura/static/media/image2.b4fa500119501d578771.png",
+    "static/media/image7.png": "/Trabalho-Org-e-Arquitetura/static/media/image7.c187f5a45f69be6c0b82.png",
+    "static/media/image8.png": "/Trabalho-Org-e-Arquitetura/static/media/image8.36ca5a73efafb8e907af.png",
+    "static/media/image12.png": "/Trabalho-Org-e-Arquitetura/static/media/image12.5084c38860f013b49aee.png",
+    "static/media/image11.png": "/Trabalho-Org-e-Arquitetura/static/media/image11.4022bc8a192fad9e3829.png",
+    "static/media/image1.png": "/Trabalho-Org-e-Arquitetura/static/media/image1.8305e998595050cb6934.png",
+    "static/media/image3.png": "/Trabalho-Org-e-Arquitetura/static/media/image3.459312df564f1bca26fe.png",
+    "static/media/image4.png": "/Trabalho-Org-e-Arquitetura/static/media/image4.3db155464840ae156a31.png",
+    "static/media/image6.png": "/Trabalho-Org-e-Arquitetura/static/media/image6.475b433e1842108d6c10.png",
+    "index.html": "/Trabalho-Org-e-Arquitetura/index.html",
+    "main.116717ef.css.map": "/Trabalho-Org-e-Arquitetura/static/css/main.116717ef.css.map",
+    "main.39d3f583.js.map": "/Trabalho-Org-e-Arquitetura/static/js/main.39d3f583.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.116717ef.css",
+    "static/js/main.39d3f583.js"
+  ]
+}
