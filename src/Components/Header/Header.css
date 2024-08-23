@@ -1,0 +1,64 @@
+/* header */
+header {
+  background-color: rgb(145, 242, 229);
+  color: black;
+  padding: 10px;
+  width: 98.9%;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 max(100px, 6%);
+}
+
+.logo img {
+  width: 100px;
+  border-radius: 30px;
+}
+
+.logo img:hover {
+  filter: brightness(75%);
+  cursor: pointer;
+}
+
+nav li {
+  margin-left: 20px;
+}
+
+nav a {
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 18px;
+  padding: 6px;
+}
+
+/* base */
+body {
+  font-family: Arial, sans-serif;
+  background-color: white;
+  margin: 0;
+}
+
+h1,
+h2,
+h3 {
+  color: #333;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.home-redirect {
+  background-color: transparent;
+  border: none;
+  color: #000;            /* Set text color */
+  padding: 10px 20px;     /* Add padding */
+  font-size: 16px;        /* Adjust font size */
+  cursor: pointer;        /* Change cursor to pointer on hover */
+}
