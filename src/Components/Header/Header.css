@@ -1,12 +1,17 @@
 /* header */
+* {
+  background-color: #f6b21a;
+}
+
 header {
-  background-color: rgb(145, 242, 229);
+  background-color: #f6b21a;
   color: black;
   padding: 10px;
   width: 98.9%;
 }
 
 nav {
+  background-color: #f6b21a;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -59,6 +64,7 @@ ul {
   border: none;
   color: #000;            /* Set text color */
   padding: 10px 20px;     /* Add padding */
-  font-size: 16px;        /* Adjust font size */
+  font-size: 20px;        /* Adjust font size */
   cursor: pointer;        /* Change cursor to pointer on hover */
+  font-weight: bold;
 }

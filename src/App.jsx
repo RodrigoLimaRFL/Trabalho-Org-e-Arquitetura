@@ -6,6 +6,8 @@ import OQueE from './Pages/OQueE/OQueE';
 import Estrutura from './Pages/Estrutura/Estrutura';
 import ComoInserir from './Pages/ComoInserir/ComoInserir';
 
+import './style.css';
+
 const App = () => {
   return (
     <Routes>
