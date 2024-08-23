@@ -9,25 +9,25 @@ import ComoInserir from './Pages/ComoInserir/ComoInserir';
 const App = () => {
   return (
     <Routes>
-      <Route path="/" exact element = {
+      <Route path="/Trabalho-Org-e-Arquitetura/" exact element = {
         <>
           <Home />
         </>
       }></Route>
 
-      <Route path="/o-que-e" exact element = {
+      <Route path="/Trabalho-Org-e-Arquitetura/o-que-e" exact element = {
         <>
           <OQueE />
         </>
       }></Route>
 
-      <Route path="/estrutura" exact element = {
+      <Route path="/Trabalho-Org-e-Arquitetura/estrutura" exact element = {
         <>
           <Estrutura />
         </>
       }></Route>
 
-      <Route path="/como-inserir" exact element = {
+      <Route path="/Trabalho-Org-e-Arquitetura/como-inserir" exact element = {
         <>
           <ComoInserir />
         </>

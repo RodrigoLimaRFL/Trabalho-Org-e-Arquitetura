@@ -14,7 +14,7 @@ const Header = () => {
     <>
       <header>
         <nav>
-          <Button className={"home-redirect"} onClick={() => navigate('/')}> RISC-V Cache </Button>
+          <Button className={"home-redirect"} onClick={() => navigate('/Trabalho-Org-e-Arquitetura')}> RISC-V Cache </Button>
         </nav>
       </header>
     </>
