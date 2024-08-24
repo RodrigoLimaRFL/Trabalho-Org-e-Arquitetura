@@ -194,7 +194,7 @@ const ComoInserir = () => {
 
                 <img src={image12} alt="Exemplo4" />
 
-                <p> Por fim, a leitura do conteúdo do endereço de 36 bytes. 
+                <p> Por fim, a leitura do conteúdo do endereço 36. 
                     O mesmo não é encontrado em nenhuma das memórias caches e buscado na RAM, 
                     sendo então carregado em L3 e L2. Contudo o valor precisa ser carregado em L1, 
                     mas no endereço onde já existe um bloco modificado, 
