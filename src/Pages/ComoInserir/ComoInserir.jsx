@@ -156,7 +156,8 @@ const ComoInserir = () => {
 
                 <p>
                 Quando o acesso for de Escrita, o conteúdo a ser escrito na palavra é o endereço do 1º byte.
-                Inicialmente, é feita a escrita dos 3 primeiros valores apresentados no desenho da divisão de endereço, 72, 64 e 136, e a seguir a leitura do byte 32.
+                Inicialmente, é feita a escrita dos 3 primeiros valores apresentados no desenho da divisão de endereço, 72, 64 e 136,
+                 e a seguir a leitura do byte 36.
                 </p>
 
                 <p>
@@ -193,7 +194,7 @@ const ComoInserir = () => {
 
                 <img src={image12} alt="Exemplo4" />
 
-                <p> Por fim, a leitura do conteúdo do endereço de 32 bytes. 
+                <p> Por fim, a leitura do conteúdo do endereço de 36 bytes. 
                     O mesmo não é encontrado em nenhuma das memórias caches e buscado na RAM, 
                     sendo então carregado em L3 e L2. Contudo o valor precisa ser carregado em L1, 
                     mas no endereço onde já existe um bloco modificado, 

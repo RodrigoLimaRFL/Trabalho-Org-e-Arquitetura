@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Trabalho-Org-e-Arquitetura/static/css/main.9945f5db.css",
-    "main.js": "/Trabalho-Org-e-Arquitetura/static/js/main.b9c5a99b.js",
+    "main.js": "/Trabalho-Org-e-Arquitetura/static/js/main.888b8284.js",
     "static/media/image5.png": "/Trabalho-Org-e-Arquitetura/static/media/image5.256c506a4dd50d9bff7a.png",
     "static/media/image10.png": "/Trabalho-Org-e-Arquitetura/static/media/image10.80e3e979b30d272325c9.png",
     "static/media/image9.png": "/Trabalho-Org-e-Arquitetura/static/media/image9.3c4daea81e1440d80e33.png",
@@ -16,10 +16,10 @@
     "static/media/image6.png": "/Trabalho-Org-e-Arquitetura/static/media/image6.475b433e1842108d6c10.png",
     "index.html": "/Trabalho-Org-e-Arquitetura/index.html",
     "main.9945f5db.css.map": "/Trabalho-Org-e-Arquitetura/static/css/main.9945f5db.css.map",
-    "main.b9c5a99b.js.map": "/Trabalho-Org-e-Arquitetura/static/js/main.b9c5a99b.js.map"
+    "main.888b8284.js.map": "/Trabalho-Org-e-Arquitetura/static/js/main.888b8284.js.map"
   },
   "entrypoints": [
     "static/css/main.9945f5db.css",
-    "static/js/main.b9c5a99b.js"
+    "static/js/main.888b8284.js"
   ]
 }
